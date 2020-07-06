@@ -40,21 +40,15 @@ Aero - For the Titan Aero Extruder.
 #### Most Common Choices
 
 [V1CNC_Rambo](https://github.com/Allted/Marlin/tree/V1CNC_Rambo)
-[Download ZIP](https://github.com/Allted/Marlin/archive/V1CNC_Rambo.zip)
 
 [V1CNC_Rambo_Dual](https://github.com/Allted/Marlin/tree/V1CNC_Rambo_Dual)
-[Download ZIP](https://github.com/Allted/Marlin/archive/V1CNC_Rambo_Dual.zip)
 
 [V1CNC_MiniRambo](https://github.com/Allted/Marlin/tree/V1CNC_MiniRambo)
-[Download ZIP](https://github.com/Allted/Marlin/archive/V1CNC_MiniRambo.zip)
 
 [V1CNC_Archim1](https://github.com/Allted/Marlin/tree/V1CNC_Archim1)
-[Download ZIP](https://github.com/Allted/Marlin/archive/V1CNC_Archim1.zip)
 
 [V1CNC_Archim1_Dual](https://github.com/Allted/Marlin/tree/V1CNC_Archim1_Dual)
-[Download ZIP](https://github.com/Allted/Marlin/archive/V1CNC_Archim1_Dual.zip)
 
 [V13DP_MiniRambo_Aero](https://github.com/Allted/Marlin/tree/V13DP_MiniRambo_Aero)
-[Download ZIP](https://github.com/Allted/Marlin/archive/V13DP_MiniRambo_Aero.zip)
 
 
