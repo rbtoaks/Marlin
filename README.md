@@ -11,6 +11,19 @@ V1 Docs flash with ![Arduino](https://docs.v1engineering.com/electronics/marlin-
 
 V1 Docs flash with ![Platform.io](https://docs.v1engineering.com/learn/platformio/).
 
+#### Most Common Choices
+
+[V1CNC_Rambo](https://github.com/Allted/Marlin/tree/V1CNC_Rambo)
+
+[V1CNC_Rambo_Dual](https://github.com/Allted/Marlin/tree/V1CNC_Rambo_Dual)
+
+[V1CNC_MiniRambo](https://github.com/Allted/Marlin/tree/V1CNC_MiniRambo)
+
+[V1CNC_Archim1](https://github.com/Allted/Marlin/tree/V1CNC_Archim1)
+
+[V1CNC_Archim1_Dual](https://github.com/Allted/Marlin/tree/V1CNC_Archim1_Dual)
+
+[V13DP_MiniRambo_Aero](https://github.com/Allted/Marlin/tree/V13DP_MiniRambo_Aero)
 
 #### Machine is one of these:
 
@@ -32,14 +45,9 @@ Rambo - Rambo 1.3+
 
 Ramps - mega/Ramps combo v1.4+
 
-#### Other:
+#### Other
 
-T8 - T8 leadscrew for Z
+Dual - The dual driver and dual endstop version.
 
-LCD - the LCD is configured
+Aero - For the Titan Aero Extruder.
 
-MK - makergeeks MK8 extruder
-
-aero - E3D V6 Titan Aero extruder
-
-32step - Used with drv8825 and 1/32nd microstepping
