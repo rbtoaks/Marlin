@@ -25,6 +25,10 @@ V1 Docs flash with ![Platform.io](https://docs.v1engineering.com/learn/platformi
 
 [V13DP_MiniRambo_Aero](https://github.com/Allted/Marlin/tree/V13DP_MiniRambo_Aero)
 
+[V1CNC_SKR_Pro](https://github.com/Allted/Marlin/tree/V1CNC_SKR_Pro)
+
+[V1CNC_SKR_Pro_Dual](https://github.com/Allted/Marlin/tree/V1CNC_SKR_Pro_Dual)
+
 #### Machine is one of these:
 
 V1CNC - For Mostly Printed CNC and Low Rider
